@@ -1,7 +1,6 @@
 ## 🧑🏻‍🔬 **Destro Labs**
 
-**We are a bespoke apps, websites, and digital solutions provider.**  
-Client work includes:
+Recent client work:
 
 **[Hodinkee](https://apps.apple.com/us/app/hodinkee/id1008305274)**  
 Write a blurb here about what Hodinkee wanted and what we helped with. Maybe just a sentence or two and that's it. Let the screenshots do the talking if possible.
