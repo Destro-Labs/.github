@@ -1,5 +1,3 @@
-## 🧑🏻‍🔬 **Destro Labs**
-
 Recent client work:
 
 **[Hodinkee](https://apps.apple.com/us/app/hodinkee/id1008305274)**  
@@ -13,7 +11,7 @@ Write a blurb here about what Hodinkee wanted and what we helped with. Maybe jus
 **[Azure Coffee Roasters](https://www.azurecoffeeroasters.com)**  
 Write a blurb here about what Azure wanted and what we helped with. Maybe just a sentence or two and that's it. Let the screenshots do the talking if possible.
 
-<img src="screenshots/azure-home.png" alt="Download on the App Store"/>
+<img src="screenshots/azure-home.png" width="90%"/>
 
 <br>
 <br>
@@ -23,7 +21,7 @@ Write a blurb here about what Azure wanted and what we helped with. Maybe just a
 **[Pixelfits](https://apps.apple.com/us/app/id6469011331)**  
 The idea blossomed when Apple opened up its “subject lifting” API, which magically lifts subjects out of images through a touch & hold interaction.
 
-<img src="screenshots/pixelfits-ig1.jpg" width="30%" alt="Image 1" /> <img src="screenshots/pixelfits-ig2.jpg" width="30%" alt="Image 2" /> <img src="screenshots/pixelfits-ig3.jpg" width="30%" alt="Image 3" />
+<img src="screenshots/pixelfits-ig1.jpg" width="30%" alt="Download on the App Store" /> <img src="screenshots/pixelfits-ig2.jpg" width="30%" alt="Download on the App Store" /> <img src="screenshots/pixelfits-ig3.jpg" width="30%" alt="Download on the App Store" />
 
 <br>
 <br>
