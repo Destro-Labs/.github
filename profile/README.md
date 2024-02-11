@@ -16,7 +16,7 @@ Write a blurb here about what Azure wanted and what we helped with. Maybe just a
 <br>
 <br>
 
-**We also independently design and develop our own applications.**
+**We also design and develop our own applications.**
 
 **[Pixelfits](https://apps.apple.com/us/app/id6469011331)**  
 The idea blossomed when Apple opened up its “subject lifting” API, which magically lifts subjects out of images through a touch & hold interaction.
