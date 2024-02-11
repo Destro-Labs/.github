@@ -1,7 +1,7 @@
 ## Client work
 
 **[Hodinkee](https://apps.apple.com/us/app/hodinkee/id1008305274)**  
-Write a blurb here about what Hodinkee wanted and what we helped with. Maybe just a sentence or two and that's it. Let the screenshots do the talking if possible.
+Through strategic partnerships and in-app features, we helped Hodinkee monetize untapped spaces and increase revenue. Additionally, our proactive integration of native iOS features, such as Widgets, Siri Shortcuts, and Dark Mode, ensured that the Hodinkee app remained a top choice for iOS users in the competitive world of luxury watch media.
 
 <img src="screenshots/hodinkee-clock.png" width="30%" alt="Download on the App Store" /> <img src="screenshots/hodinkee-discover.png" width="30%" alt="Download on the App Store" /> <img src="screenshots/hodinkee-search.png" width="30%" alt="Download on the App Store" />
 
@@ -9,7 +9,7 @@ Write a blurb here about what Hodinkee wanted and what we helped with. Maybe jus
 <br>
 
 **[Azure Coffee Roasters](https://www.azurecoffeeroasters.com)**  
-Write a blurb here about what Azure wanted and what we helped with. Maybe just a sentence or two and that's it. Let the screenshots do the talking if possible.
+We transformed Azure's online presence with a new website featuring a wholesale section, subscription options, and smooth integration with their Square POS system. This upgraded platform showcases their passion for quality coffee while providing a simplified, enjoyable experience for customers.
 
 <img src="screenshots/azure-home.png" width="90%"/>
 
