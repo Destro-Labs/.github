@@ -3,7 +3,7 @@ Recent client work:
 **[Hodinkee](https://apps.apple.com/us/app/hodinkee/id1008305274)**  
 Write a blurb here about what Hodinkee wanted and what we helped with. Maybe just a sentence or two and that's it. Let the screenshots do the talking if possible.
 
-<img src="screenshots/hodinkee-clock.png" width="30%" alt="Download on the App Store" /> <img src="screenshots/hodinkee-discover.png" width="30%" alt="Download on the App Store" /> <img src="screenshots/hodinkee-search.png" width="30%" alt="Download on the App Store" />
+<img src="/screenshots/hodinkee-clock.png" width="30%" alt="Download on the App Store" /> <img src="/screenshots/hodinkee-discover.png" width="30%" alt="Download on the App Store" /> <img src="/screenshots/hodinkee-search.png" width="30%" alt="Download on the App Store" />
 
 <br>
 <br>
