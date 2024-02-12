@@ -19,7 +19,7 @@ We transformed Azure's online presence with a new website featuring a wholesale 
 ## We also design and develop our own applications
 
 **[Pixelfits](https://apps.apple.com/us/app/id6469011331)**  
-The idea blossomed when Apple opened up its “subject lifting” API, which magically lifts subjects out of images through a touch & hold interaction.
+Your virtual 2D Fitting Room! Our app lets you share tops, bottoms, or sneakers from your mobile browser and "try on" anything you come across while shopping online.
 
 <img src="screenshots/pixelfits-ig1.jpg" width="30%" alt="Download on the App Store" /> <img src="screenshots/pixelfits-ig2.jpg" width="30%" alt="Download on the App Store" /> <img src="screenshots/pixelfits-ig3.jpg" width="30%" alt="Download on the App Store" />
 
