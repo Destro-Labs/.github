@@ -26,7 +26,7 @@ Your virtual 2D Fitting Room! Our app lets you share tops, bottoms, or sneakers 
 <br>
 <br>
 
-**Nareto**  
+**Nareta**  
 COMING SOON.
 
 <br>
