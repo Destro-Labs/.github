@@ -1,9 +1,13 @@
 ## We design & develop our own applications
 
+Impact-Site-Verification: ddfed192-c283-4d0d-b453-916ad6bee2da
+
 **[Pixelfits](https://apps.apple.com/us/app/id6469011331)**  
 Your virtual 2D Fitting Room! Our app lets you share tops, bottoms, or sneakers from your mobile browser and "try on" anything you come across while shopping online. This app also explored more of what the iOS ecosystem has to offer with Share Extensions, SwiftData, and VisionKit.
 
-<img src="screenshots/pixelfits-ig1.jpg" width="30%" alt="Download on the App Store" /> <img src="screenshots/pixelfits-ig2.jpg" width="30%" alt="Download on the App Store" /> <img src="screenshots/pixelfits-ig3.jpg" width="30%" alt="Download on the App Store" />
+<img src="screenshots/pixelfits-ig1.png" alt="Download on the App Store" />
+<img src="screenshots/pixelfits-ig2.jpg" width="30%" alt="Download on the App Store" />
+<img src="screenshots/pixelfits-ig3.jpg" width="30%" alt="Download on the App Store" />
 
 <br>
 <br>
