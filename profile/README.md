@@ -6,7 +6,7 @@ Your virtual 2D Fitting Room! Our app lets you share tops, bottoms, or sneakers 
 <br>
 <br>
 
-**HACKS**  
+**[HACKS](https://apps.apple.com/us/app/hacks-golf-swing-journal/id6503170201)**  
 Read more on https://nothingwasted.ink & download on the [Apple App Store](https://apps.apple.com/us/app/hacks-golf-swing-journal/id6503170201)!
 
 <br>
