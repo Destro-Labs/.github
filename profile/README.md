@@ -34,13 +34,13 @@ Through strategic partnerships and in-app features, we helped Hodinkee monetize 
   </tr>
     <tr>
     <td><a href="https://lagreebuddy.com">Lagree Buddy Metronome</a></td>
-    <td><img src="logos/hacks.png" alt="Download on the App Store" width="48px"/></td>    
+    <td><img src="logos/lagreebuddy.png" alt="Download on the App Store" width="48px"/></td>    
     <td>Lagree Buddy is your partner on the Megaformer. It keeps you moving slow and strong throughout class.
 </td>    
   </tr>
   <tr>
     <td><a href="https://apps.apple.com/us/app/id6670567397">spf.today</a></td>
-    <td><img src="logos/lux.png" alt="Download on the App Store" width="48px"/></td>    
+    <td><img src="logos/spf-today.png" alt="Download on the App Store" width="48px"/></td>    
     <td>LUX is an app that gamifies sunscreen by using your Apple Health's Time in Daylight metric!</td>    
   </tr>
   <tr>
@@ -51,7 +51,7 @@ Through strategic partnerships and in-app features, we helped Hodinkee monetize 
   </tr>
   <tr>
     <td><a href="https://apps.apple.com/us/app/wristcheck-try-on/id6737742550">WristCheck Try-On</a></td>
-    <td><img src="logos/pixelfits.png" alt="Download on the App Store" width="48px"/></td>    
+    <td><img src="logos/wristcheck.png" alt="Download on the App Store" width="48px"/></td>    
     <td>WristCheck is your virtual 3D Horological Experience! Explore the magic of the Vision Pro and try-on some luxury watches.</td>    
   </tr>  
 </table>
