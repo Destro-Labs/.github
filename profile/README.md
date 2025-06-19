@@ -41,7 +41,7 @@ Through strategic partnerships and in-app features, we helped Hodinkee monetize 
   <tr>
     <td><a href="https://apps.apple.com/us/app/id6670567397">spf.today</a></td>
     <td><img src="logos/spf-today.png" alt="Download on the App Store" width="48px"/></td>    
-    <td>LUX is an app that gamifies sunscreen by using your Apple Health's Time in Daylight metric!</td>    
+    <td>spf.today makes sunscreen fun by using Apple Health's Time in Daylight tracking!</td>    
   </tr>
   <tr>
     <td><a href="https://apps.apple.com/us/app/id6503170201">Hacks - Sim Golf Journal</a></td>
