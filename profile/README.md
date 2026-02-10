@@ -1,6 +1,6 @@
 ## Client work
 
-**[Artemis Pro](https://apps.apple.com/us/app/artemis-directors-viewfinder/id1164523253)**
+**[Artemis Pro](https://apps.apple.com/us/app/artemis-directors-viewfinder/id1164523253)**  
 Professional filmmaking app for cinematographers and directors to preview shots using real camera and lens data.
 
 <img src="screenshots/artemis.png" width="90%"/>
@@ -8,7 +8,7 @@ Professional filmmaking app for cinematographers and directors to preview shots 
 <br>
 <br>
 
-**[Hodinkee](https://apps.apple.com/us/app/hodinkee/id1008305274)**
+**[Hodinkee](https://apps.apple.com/us/app/hodinkee/id1008305274)**  
 Through strategic partnerships and in-app features, we helped Hodinkee monetize untapped spaces and increase revenue. Additionally, our proactive integration of native iOS features, such as Widgets, Siri Shortcuts, and Dark Mode, ensured that the Hodinkee app remained a top choice for iOS users in the competitive world of luxury watch media.
 
 <img src="screenshots/hodinkee-clock.png" width="30%" alt="Download on the App Store" /> <img src="screenshots/hodinkee-discover.png" width="30%" alt="Download on the App Store" /> <img src="screenshots/hodinkee-search.png" width="30%" alt="Download on the App Store" />
