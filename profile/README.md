@@ -13,7 +13,7 @@ Through strategic partnerships and in-app features, we helped Hodinkee monetize 
 
 <img src="screenshots/hodinkee-clock.png" width="30%" alt="Download on the App Store" /> <img src="screenshots/hodinkee-discover.png" width="30%" alt="Download on the App Store" /> <img src="screenshots/hodinkee-search.png" width="30%" alt="Download on the App Store" />
 
-## We also design & develop our own applications!
+## In-House work
 
 <table>
   <tr>
